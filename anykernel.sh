@@ -30,10 +30,10 @@ ramdisk_compression=auto;
 . tools/ak3-core.sh;
 
 ## AnyKernel install
-dump_boot;
+split_boot;
 
 # end ramdisk changes
 
-write_boot;
+flash_boot;
 ## end install
 
