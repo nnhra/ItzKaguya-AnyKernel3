@@ -17,6 +17,8 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=a10s
+device.name2=seraphine
+device.name3=seraphinedx
 '; } # end properties
 
 # shell variables
