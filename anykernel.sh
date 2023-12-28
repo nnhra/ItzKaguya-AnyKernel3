@@ -10,15 +10,17 @@
 # device.name2=a10sxx
 # or more
 properties() { '
-kernel.string=ItzKaguya-XtraSaver-rev5.1
+kernel.string=ItzKaguya Kernel for (idk which device is it)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=a10s
-device.name2=seraphine
-device.name3=seraphinedx
+device.name1=
+device.name2=
+device.name3=
+device.name4=
+device.name5=
 '; } # end properties
 
 # shell variables
